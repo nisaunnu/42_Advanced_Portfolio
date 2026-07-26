@@ -1,21 +1,15 @@
 # **AI Roadmap**
 
-
-<table width="100%" align="center">
-
-<tr style="display:flex; justify-content:space-around; paddind:0;">
-<td style="padding:0; margin:0;">
+<br></br>
 
 | Python for Data Science Modules | Notes                       | Codes                       | Status                       |
-| :-                              | :-                          | :-                          | :-                           |
+| ---                             | :---:                       | :---:                       | :---:                        |
 | Python 0 - Starting             | [![py0_note]][py0_note_url] | [![py0_code]][py0_code_url] | [![py0_badge]][py0_code_url] |
 | Python 1 - Array                | [![py1_note]][py1_note_url] | [![py1_code]][py1_code_url] | [![py1_badge]][py1_code_url] |
 | Python 2 - DataTable            | [![py2_note]][py2_note_url] | [![py2_code]][py2_code_url] | [![py2_badge]][py2_code_url] |
 | Python 3 - OOP                  | [![py3_note]][py3_note_url] | [![py3_code]][py3_code_url] | [![py3_badge]][py3_code_url] |
 | Python 4 - Dod                  | [![py4_note]][py4_note_url] | [![py4_code]][py4_code_url] | [![py4_badge]][py4_code_url] |
 
-</td>
-</tr>
 
 [net_practice_badge]:https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
 [cpp_00_to_04_badge]: https://custom-icon-badges.demolab.com/badge/in%20progress-02b331.svg?&style=for-the-badge&color=8104c4
@@ -52,3 +46,5 @@
 [py4_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=bf2806
 
 </table>
+
+<br></br>
